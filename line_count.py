@@ -6,4 +6,4 @@ def line_count():
   
   file.close() #closes the file
   
-  return('number_lines') #returns the number of lines from above
+  return(number_lines) #returns the number of lines from above
